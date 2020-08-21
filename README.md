@@ -7,8 +7,8 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/nimblechapps/bennybite-api.git
-cd bennybite-api
+heroku git:clone -a api-foodevent
+cd api-foodevent
 ```
 
 Install dependencies:
